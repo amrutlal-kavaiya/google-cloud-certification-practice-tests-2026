@@ -138,7 +138,7 @@ Not sure where to start? Find the row that sounds like you. The **bold** exam is
 4. **Simulate exam day.** Retake in a single timed sitting, with no pausing and no second screen.
 5. **Book when you're consistent.** Aim for 80%+ across several different tests before you schedule the real exam.
 
----
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/51418e82-3953-4d37-9951-a9cee3e77d8b" />
 
 ## ❓ FAQ
 
