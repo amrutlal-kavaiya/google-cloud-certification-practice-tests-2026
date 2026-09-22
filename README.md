@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="GCP Certification Arsenal: 15 Google Cloud practice test courses" width="100%" />
-
 <br/>
 
 ### Your launchpad for passing Google Cloud certifications, from Foundational to Professional.
@@ -205,28 +203,10 @@ Links marked 🎟 include a coupon while it's valid, and Udemy runs frequent sit
 
 Spotted an outdated question, a typo, or an explanation that could be clearer? [Open an issue](../../issues) with the **course name** and **question number**. Every report makes the tests better for the next learner.
 
----
-
-## 👋 Meet Your Instructor
-
-**Yash** is a Senior Conversational AI Engineer and the creator of **Gen AI Guru**. He has spent his career building production systems on Google's AI stack (Dialogflow CX, CX Agent Studio, Agent Assist, Google ADK and Gemini) for clients across retail, financial services, healthcare and telecom. He's a GDG speaker, Udemy instructor and open-source contributor with 345+ public repositories.
-
-<!-- TODO: replace the placeholder handles below with your real profile links -->
-<p>
-  <a href="https://www.youtube.com/@your-handle"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@your-handle"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://your-handle.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
----
 
 ## 📜 Disclaimer
 
 This repository and the linked courses are independent educational resources and are **not affiliated with, sponsored by, or endorsed by Google LLC**. Google Cloud, Google Workspace and related names are trademarks of Google LLC. Exam names, domains and formats change over time, so always confirm details on the official Google Cloud certification site before booking.
-
----
 
 <div align="center">
 
