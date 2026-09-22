@@ -61,38 +61,7 @@
 
 ## 🧭 Certification Roadmap
 
-```mermaid
-flowchart LR
-    subgraph F["🌱 FOUNDATIONAL"]
-        direction TB
-        F1["Cloud Digital Leader"]
-        F2["Generative AI Leader"]
-    end
-
-    subgraph A["🚀 ASSOCIATE"]
-        direction TB
-        A1["Cloud Engineer"]
-        A2["Data Practitioner"]
-        A3["Workspace Administrator"]
-    end
-
-    subgraph P["🏆 PROFESSIONAL"]
-        direction TB
-        P1["🏛️ Architecture<br/>Cloud Architect · Agentic Architect (Beta)"]
-        P2["🛠️ Build & Operate<br/>Developer · DevOps Engineer · Network Engineer"]
-        P3["🔐 Security<br/>Security Engineer · Security Operations Engineer"]
-        P4["📊 Data & AI<br/>Data Engineer · Database Engineer · ML Engineer"]
-    end
-
-    F ==> A ==> P
-
-    classDef found fill:#E6F4EA,stroke:#34A853,stroke-width:2px,color:#0D652D
-    classDef assoc fill:#E8F0FE,stroke:#4285F4,stroke-width:2px,color:#174EA6
-    classDef pro fill:#FEF7E0,stroke:#F9AB00,stroke-width:2px,color:#7A4F01
-    class F1,F2 found
-    class A1,A2,A3 assoc
-    class P1,P2,P3,P4 pro
-```
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/cde0f1b8-dd20-4edd-8fe2-08624e931c43" />
 
 > **Note:** Google Cloud certifications have no formal prerequisites. The levels above are a suggested progression based on experience, not a requirement.
 
