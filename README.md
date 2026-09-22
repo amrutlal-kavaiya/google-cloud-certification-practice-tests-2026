@@ -1,6 +1,6 @@
 <div align="center">
 
-<br/>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d73f6625-2033-4e13-9fb7-02a12af995e1" />
 
 ### Your launchpad for passing Google Cloud certifications, from Foundational to Professional.
 
