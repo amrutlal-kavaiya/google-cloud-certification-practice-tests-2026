@@ -103,7 +103,7 @@
 
 <div align="right"><a href="#top">⬆ Back to top</a></div>
 
----
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/82918da2-fe36-43e9-9d44-40057aa51e6b" />
 
 ## 🎯 Pick Your Path
 
