@@ -1,125 +1,237 @@
 <div align="center">
 
-# ☁️ GCP Cert Vault
+<img src="./assets/banner.svg" alt="GCP Certification Arsenal: 15 Google Cloud practice test courses" width="100%" />
 
-### Curated Practice Tests & Exam Prep for Every Google Cloud Certification
+<br/>
 
-[![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://commonmark.org)
-[![Platform](https://img.shields.io/badge/Platform-Udemy-a435f0.svg)](https://www.udemy.com)
-[![Certifications](https://img.shields.io/badge/Certifications-14-blue.svg)]()
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-contributing)
-[![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](#-license)
+### Your launchpad for passing Google Cloud certifications, from Foundational to Professional.
 
-*A single, organized jumping-off point for Google Cloud practice exams — from Foundational to Professional level.*
+<p>
+  <img src="https://img.shields.io/badge/Courses-15-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="15 courses" />
+  <img src="https://img.shields.io/badge/Updated_for-2026-34A853?style=for-the-badge" alt="Updated for 2026" />
+  <img src="https://img.shields.io/badge/Hosted_on-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Hosted on Udemy" />
+  <img src="https://img.shields.io/badge/Levels-Foundational_%C2%B7_Associate_%C2%B7_Professional-EA4335?style=for-the-badge" alt="All certification levels" />
+</p>
+
+<p>
+  <a href="#-course-catalog"><b>📚 Catalog</b></a> &nbsp;•&nbsp;
+  <a href="#-certification-roadmap"><b>🧭 Roadmap</b></a> &nbsp;•&nbsp;
+  <a href="#-pick-your-path"><b>🎯 Pick Your Path</b></a> &nbsp;•&nbsp;
+  <a href="#-how-to-use-these-tests"><b>📝 Study Loop</b></a> &nbsp;•&nbsp;
+  <a href="#-faq"><b>❓ FAQ</b></a> &nbsp;•&nbsp;
+  <a href="#-meet-your-instructor"><b>👋 Instructor</b></a>
+</p>
 
 </div>
 
 ---
 
-## 📖 About
+## ✨ Why These Practice Tests
 
-This repository is a hand-curated index of **Udemy practice test courses** for the full **Google Cloud certification track** — Foundational, Associate, and Professional levels. Instead of hunting across Udemy for the right exam simulator, use the table below to jump straight to the course that matches the certification you're studying for.
-
-> 💡 **Tip:** Links may include promotional coupon codes. Prices and discounts can change or expire at any time — always double-check the final price at checkout.
-
----
-
-## 📑 Table of Contents
-
-- [🏆 Professional Certifications](#-professional-certifications)
-- [🥈 Associate Certifications](#-associate-certifications)
-- [🌱 Foundational Certifications](#-foundational-certifications)
-- [🚀 How to Use](#-how-to-use)
-- [🗺️ Suggested Learning Path](#️-suggested-learning-path)
-- [🤝 Contributing](#-contributing)
-- [⚠️ Disclaimer](#️-disclaimer)
-- [📄 License](#-license)
-
----
-
-## 🏆 Professional Certifications
-
-| Certification | Course | Link |
-|---|---|---|
-| ☁️ Professional Cloud Architect | Google Professional Architect Practice Tests 2026 | [Enroll →](https://www.udemy.com/course/google-cloud-architect-practice-tests-2026/?couponCode=D172CB17E46336821317) |
-| 🤖 Professional Cloud Agentic Architect *(Beta)* | Google Professional Cloud Agentic Architect (Beta) | [Enroll →](https://www.udemy.com/course/professional-agentic-architect-practice-tests-2026-gcloud/?referralCode=74BA83F00A79D30959CA) |
-| 🗄️ Professional Cloud Database Engineer | Google Professional Cloud Database Engineer | [Enroll →](https://www.udemy.com/course/professional-data-engineer-practice-test/?referralCode=82E5AFB6DBAFD2387D2B) |
-| 💻 Professional Cloud Developer | Google Professional Cloud Developer | [Enroll →](https://www.udemy.com/course/professional-cloud-developer-practice-test/?referralCode=FBF269B996FA96160CA8) |
-| 📊 Professional Data Engineer | Google Professional Data Engineer | [Enroll →](https://www.udemy.com/course/professional-data-engineer-practice-test/?referralCode=82E5AFB6DBAFD2387D2B) |
-| 🔁 Professional Cloud DevOps Engineer | Google Professional Cloud DevOps Engineer | [Enroll →](https://www.udemy.com/course/professional-cloud-devops-engineer-practice-test/?referralCode=903CAE7E6F5F5B5B7EB7) |
-| 🔐 Professional Cloud Security Engineer | Google Professional Cloud Security Engineer | [Enroll →](https://www.udemy.com/course/professional-security-operations-engineer-practice-test/?referralCode=7EE619AD56072B873ECF) |
-| 🌐 Professional Cloud Network Engineer | Google Professional Cloud Network Engineer | [Enroll →](https://www.udemy.com/course/professional-cloud-network-engineer-practice-tests-2026/?referralCode=8151BDFD232F04AAB2BD) |
-| 🧠 Professional Machine Learning Engineer | Google Professional Machine Learning Engineer | [Enroll →](https://www.udemy.com/course/google-cloud-professional-ml-engineer-practice-tests/?referralCode=BC75BBA051FD0149DE79) |
-| 🛡️ Professional Security Operations Engineer | Google Professional Security Operations Engineer | [Enroll →](https://www.udemy.com/course/professional-security-operations-engineer-practice-test/?referralCode=7EE619AD56072B873ECF) |
-
-## 🥈 Associate Certifications
-
-| Certification | Course | Link |
-|---|---|---|
-| 📈 Associate Data Practitioner | Google Associate Data Practitioner Exam Prep | [Enroll →](https://www.udemy.com/course/google-associate-data-practitioner-exam-prep/?couponCode=GOOGLE) |
-| ⚙️ Associate Cloud Engineer | Google Cloud Cloud Engineer | [Enroll →](https://www.udemy.com/course/google-associate-cloud-engineer-practice-tests-w/?referralCode=87EFB10146C44AF4E2F8) |
-| 🧩 Associate Google Workspace Administrator | Google Associate Google Workspace Administrator | [Enroll →](https://www.udemy.com/course/google-workspace-administrator-practice-exams-g/?referralCode=2BA92BE2193A7E948355) |
-
-## 🌱 Foundational Certifications
-
-| Certification | Course | Link |
-|---|---|---|
-| 🧭 Cloud Digital Leader | Google Foundational Cloud Digital Leader | [Enroll →](https://www.udemy.com/course/google-cloud-digital-leader-practice-tests-cd/?referralCode=7D7B256B6F40516928BF) |
-| ✨ Generative AI Leader | Google Foundational Generative AI Leader | [Enroll →](https://www.udemy.com/course/google-generative-ai-leader-practice-tests-i/?referralCode=749BE20C5604B682BEF4) |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎯 Exam-Style Scenarios</h3>
+      Questions written to mirror the tone, length and case-study style of the real Google Cloud exams.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧠 Every Option Explained</h3>
+      Learn why the right answer is right <i>and</i> why each distractor is wrong, so you understand instead of memorizing.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🗂️ Domain-Mapped</h3>
+      Coverage organized around each certification's official exam guide, so you can spot weak domains fast.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>⏱️ Real Exam Pressure</h3>
+      Timed attempts build the pacing and stamina you need on exam day.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔁 Retake Freely</h3>
+      Practice until your scores are consistent, not lucky.
+    </td>
+    <td width="33%" valign="top">
+      <h3>📱 Study Anywhere</h3>
+      Web, iOS or Android through the Udemy app: squeeze in a set on your commute.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 How to Use
-
-1. **Pick your target certification** from the tables above.
-2. **Click "Enroll →"** to open the course on Udemy.
-3. **Work through the practice tests** section by section, reviewing explanations for every missed question.
-4. **Track your score trend** across attempts — aim for consistent 85%+ before sitting the real exam.
-5. ⭐ **Star this repo** so you can find your prep material again later.
-
----
-
-## 🗺️ Suggested Learning Path
+## 🧭 Certification Roadmap
 
 ```mermaid
 flowchart LR
-    A[🌱 Foundational] --> B[🥈 Associate]
-    B --> C[🏆 Professional]
-    A -->|Cloud Digital Leader| B
-    A -->|Generative AI Leader| C
-    B -->|Cloud Engineer| C
+    subgraph F["🌱 FOUNDATIONAL"]
+        direction TB
+        F1["Cloud Digital Leader"]
+        F2["Generative AI Leader"]
+    end
+
+    subgraph A["🚀 ASSOCIATE"]
+        direction TB
+        A1["Cloud Engineer"]
+        A2["Data Practitioner"]
+        A3["Workspace Administrator"]
+    end
+
+    subgraph P["🏆 PROFESSIONAL"]
+        direction TB
+        P1["🏛️ Architecture<br/>Cloud Architect · Agentic Architect (Beta)"]
+        P2["🛠️ Build & Operate<br/>Developer · DevOps Engineer · Network Engineer"]
+        P3["🔐 Security<br/>Security Engineer · Security Operations Engineer"]
+        P4["📊 Data & AI<br/>Data Engineer · Database Engineer · ML Engineer"]
+    end
+
+    F ==> A ==> P
+
+    classDef found fill:#E6F4EA,stroke:#34A853,stroke-width:2px,color:#0D652D
+    classDef assoc fill:#E8F0FE,stroke:#4285F4,stroke-width:2px,color:#174EA6
+    classDef pro fill:#FEF7E0,stroke:#F9AB00,stroke-width:2px,color:#7A4F01
+    class F1,F2 found
+    class A1,A2,A3 assoc
+    class P1,P2,P3,P4 pro
 ```
 
-New to Google Cloud? Start **Foundational → Associate → Professional**. Already have hands-on GCP experience? Feel free to jump straight into the Associate or Professional tier that matches your role.
+> **Note:** Google Cloud certifications have no formal prerequisites. The levels above are a suggested progression based on experience, not a requirement.
 
 ---
 
-## 🤝 Contributing
+## 📚 Course Catalog
 
-Found a broken link, an updated coupon code, or a new Google Cloud certification that's missing?
+> 🎟 = link currently includes a discount coupon. Coupons expire, so grab them while they're live.
 
-1. Fork this repository
-2. Add or update the relevant table row
-3. Open a pull request with a short description of the change
+### 🌱 Foundational
 
-Contributions that keep this list accurate and up to date are always welcome!
+| # | Certification | Ideal For | Enroll |
+|:-:|:--|:--|:-:|
+| 1 | **Cloud Digital Leader** | Business, sales, product and other non-technical roles who need cloud fluency | [![Enroll on Udemy](https://img.shields.io/badge/Enroll-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/course/google-cloud-digital-leader-practice-tests-cd/?referralCode=7D7B256B6F40516928BF) |
+| 2 | **Generative AI Leader** | Leaders and decision-makers shaping Gen AI strategy on Google Cloud | [![Enroll on Udemy](https://img.shields.io/badge/Enroll-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/course/google-generative-ai-leader-practice-tests-i/?referralCode=749BE20C5604B682BEF4) |
+
+### 🚀 Associate
+
+| # | Certification | Ideal For | Enroll |
+|:-:|:--|:--|:-:|
+| 3 | **Associate Cloud Engineer** | Hands-on engineers deploying and operating workloads on Google Cloud | [![Enroll on Udemy](https://img.shields.io/badge/Enroll-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/course/google-associate-cloud-engineer-practice-tests-w/?referralCode=87EFB10146C44AF4E2F8) |
+| 4 | **Associate Data Practitioner** 🎟 | Early-career data professionals working with data prep, analysis and ML basics | [![Enroll on Udemy](https://img.shields.io/badge/Enroll-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/course/google-associate-data-practitioner-exam-prep/?couponCode=GOOGLE) |
+| 5 | **Associate Google Workspace Administrator** | IT admins managing users, security and services in Google Workspace | [![Enroll on Udemy](https://img.shields.io/badge/Enroll-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/course/google-workspace-administrator-practice-exams-g/?referralCode=2BA92BE2193A7E948355) |
+
+### 🏆 Professional
+
+| # | Certification | Ideal For | Enroll |
+|:-:|:--|:--|:-:|
+| 6 | **Professional Cloud Architect** 🎟 | Designing secure, scalable, highly available solutions end to end | [![Enroll on Udemy](https://img.shields.io/badge/Enroll-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/course/google-cloud-architect-practice-tests-2026/?couponCode=D172CB17E46336821317) |
+| 7 | **Professional Cloud Agentic Architect** ![Beta](https://img.shields.io/badge/BETA-FF6D00?style=flat-square) | Architects designing agentic and multi-agent AI systems on Google Cloud | [![Enroll on Udemy](https://img.shields.io/badge/Enroll-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/course/professional-agentic-architect-practice-tests-2026-gcloud/?referralCode=74BA83F00A79D30959CA) |
+| 8 | **Professional Cloud Developer** | Building and shipping cloud-native applications and APIs | [![Enroll on Udemy](https://img.shields.io/badge/Enroll-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/course/professional-cloud-developer-practice-test/?referralCode=FBF269B996FA96160CA8) |
+| 9 | **Professional Cloud DevOps Engineer** | SRE practices, CI/CD pipelines and service observability | [![Enroll on Udemy](https://img.shields.io/badge/Enroll-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/course/professional-cloud-devops-engineer-practice-test/?referralCode=903CAE7E6F5F5B5B7EB7) |
+| 10 | **Professional Cloud Network Engineer** | VPC design, hybrid connectivity and network services | [![Enroll on Udemy](https://img.shields.io/badge/Enroll-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/course/professional-cloud-network-engineer-practice-tests-2026/?referralCode=8151BDFD232F04AAB2BD) |
+| 11 | **Professional Cloud Security Engineer** | IAM, data protection and secure infrastructure design | [![Enroll on Udemy](https://img.shields.io/badge/Enroll-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/course/professional-security-operations-engineer-practice-test/?referralCode=7EE619AD56072B873ECF) <!-- TODO: verify — same URL as Security Operations Engineer (#12) --> |
+| 12 | **Professional Security Operations Engineer** | Detection engineering, threat hunting and incident response | [![Enroll on Udemy](https://img.shields.io/badge/Enroll-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/course/professional-security-operations-engineer-practice-test/?referralCode=7EE619AD56072B873ECF) |
+| 13 | **Professional Data Engineer** | Designing data processing systems and pipelines at scale | [![Enroll on Udemy](https://img.shields.io/badge/Enroll-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/course/professional-data-engineer-practice-test/?referralCode=82E5AFB6DBAFD2387D2B) |
+| 14 | **Professional Cloud Database Engineer** | Designing, migrating and managing cloud databases | [![Enroll on Udemy](https://img.shields.io/badge/Enroll-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/course/professional-data-engineer-practice-test/?referralCode=82E5AFB6DBAFD2387D2B) <!-- TODO: verify — same URL as Data Engineer (#13) --> |
+| 15 | **Professional Machine Learning Engineer** | Building, deploying and operationalizing ML models | [![Enroll on Udemy](https://img.shields.io/badge/Enroll-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/course/google-cloud-professional-ml-engineer-practice-tests/?referralCode=BC75BBA051FD0149DE79) |
+
+<div align="right"><a href="#top">⬆ Back to top</a></div>
 
 ---
 
-## ⚠️ Disclaimer
+## 🎯 Pick Your Path
 
-- This repository is an independent, community-style index and is **not affiliated with or endorsed by Google or Udemy**.
-- Coupon and referral codes are provided as-is, may expire without notice, and any discount shown at checkout is controlled entirely by Udemy.
-- These are third-party practice tests intended as *supplementary* study material — always cross-reference with the [official Google Cloud certification exam guides](https://cloud.google.com/certification).
+Not sure where to start? Find the row that sounds like you. The **bold** exam is the headline target for that path.
+
+| If you are… | Suggested path |
+|:--|:--|
+| ☁️ **Aspiring cloud architect** | Cloud Digital Leader → Associate Cloud Engineer → **Professional Cloud Architect** |
+| 🤖 **AI / agent builder** | Generative AI Leader → Professional ML Engineer → **Professional Cloud Agentic Architect** |
+| 📊 **Data professional** | Associate Data Practitioner → **Professional Data Engineer** → Professional Cloud Database Engineer |
+| 🔐 **Security engineer** | Associate Cloud Engineer → **Professional Cloud Security Engineer** → Professional Security Operations Engineer |
+| 🛠️ **Developer / DevOps / SRE** | Associate Cloud Engineer → **Professional Cloud Developer** → Professional Cloud DevOps Engineer |
+| 🌐 **Network engineer** | Associate Cloud Engineer → **Professional Cloud Network Engineer** |
+| 🗂️ **IT / Workspace admin** | **Associate Google Workspace Administrator** |
+| 💼 **Business / non-technical** | **Cloud Digital Leader** → Generative AI Leader |
+
+<div align="right"><a href="#top">⬆ Back to top</a></div>
 
 ---
 
-## 📄 License
-
-The contents of this README (descriptions, formatting, organization) are released under **CC0 — Public Domain**. Course links and titles remain the property of their respective owners (Udemy / course instructors).
+## 📝 How to Use These Tests
 
 <div align="center">
 
-**Happy studying, and good luck on your exam! 🎓**
+**Attempt → Review → Fix → Retake → Book**
+
+</div>
+
+1. **Take a diagnostic run.** Attempt one full test cold, with no notes. The score is a baseline, not a verdict.
+2. **Study every explanation.** Review all questions, including the ones you got right. A lucky guess is a hidden gap.
+3. **Close the gaps.** Map your weak domains to the official exam guide, then fill them with Google Cloud docs and hands-on labs.
+4. **Simulate exam day.** Retake in a single timed sitting, with no pausing and no second screen.
+5. **Book when you're consistent.** Aim for 80%+ across several different tests before you schedule the real exam.
+
+---
+
+## ❓ FAQ
+
+<details>
+<summary><b>Are these real exam questions or "dumps"?</b></summary>
+<br/>
+No. Every question is original and scenario-based, written against the published exam guides. Using leaked exam content violates Google's certification agreement, and it doesn't prepare you for the questions you'll actually see.
+</details>
+
+<details>
+<summary><b>Which certification should I start with?</b></summary>
+<br/>
+Check <a href="#-pick-your-path">Pick Your Path</a>. If you're brand new to cloud, Cloud Digital Leader is the gentlest entry point. If you already work hands-on with Google Cloud, go straight to Associate Cloud Engineer.
+</details>
+
+<details>
+<summary><b>Are practice tests enough on their own?</b></summary>
+<br/>
+For Associate and Professional exams, pair them with real hands-on time. Practice tests sharpen exam technique and expose gaps; labs and real projects build the skill the exam is testing.
+</details>
+
+<details>
+<summary><b>How do I get the best price?</b></summary>
+<br/>
+Links marked 🎟 include a coupon while it's valid, and Udemy runs frequent site-wide sales. Referral links in this repo directly support the instructor.
+</details>
+
+---
+
+## 🤝 Feedback & Contributions
+
+Spotted an outdated question, a typo, or an explanation that could be clearer? [Open an issue](../../issues) with the **course name** and **question number**. Every report makes the tests better for the next learner.
+
+---
+
+## 👋 Meet Your Instructor
+
+**Yash** is a Senior Conversational AI Engineer and the creator of **Gen AI Guru**. He has spent his career building production systems on Google's AI stack (Dialogflow CX, CX Agent Studio, Agent Assist, Google ADK and Gemini) for clients across retail, financial services, healthcare and telecom. He's a GDG speaker, Udemy instructor and open-source contributor with 345+ public repositories.
+
+<!-- TODO: replace the placeholder handles below with your real profile links -->
+<p>
+  <a href="https://www.youtube.com/@your-handle"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@your-handle"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://your-handle.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+
+## 📜 Disclaimer
+
+This repository and the linked courses are independent educational resources and are **not affiliated with, sponsored by, or endorsed by Google LLC**. Google Cloud, Google Workspace and related names are trademarks of Google LLC. Exam names, domains and formats change over time, so always confirm details on the official Google Cloud certification site before booking.
+
+---
+
+<div align="center">
+
+**If this helped your prep, drop a ⭐. It helps other learners find it.**
+
+<sub>Made with ☁️ and ☕ by <b>Gen AI Guru</b></sub>
 
 </div>
